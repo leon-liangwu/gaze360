@@ -1,0 +1,6 @@
+*.tar 
+/imgs
+*.pyc
+*.vscode
+*.idea
+runs/
