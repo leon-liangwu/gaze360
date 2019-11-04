@@ -25,9 +25,9 @@ train_file = "train.txt"
 test_file = "test.txt"
 
 
-workers = 30;
+workers = 6;
 epochs = 80
-batch_size = 80
+batch_size = 40
 best_error = 100 # init with a large value
 lr = 1e-4
 
